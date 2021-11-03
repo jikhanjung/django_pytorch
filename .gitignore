@@ -1,0 +1,4 @@
+*.pyc
+django_pytorch/.env
+django_pytorch/__pycache__/settings.cpython-38.pyc
+db.sqlite3
